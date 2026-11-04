@@ -1,100 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=theblckrs&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<br>
 
-### 🌹 Full-Stack Developer & Linux Enthusiast
+<pre>
+████████╗██╗  ██╗███████╗██████╗ ██╗      ██████╗██╗  ██╗██████╗ ███████╗
+╚══██╔══╝██║  ██║██╔════╝██╔══██╗██║     ██╔════╝██║ ██╔╝██╔══██╗██╔════╝
+   ██║   ███████║█████╗  ██████╔╝██║     ██║     █████╔╝ ██████╔╝███████╗
+   ██║   ██╔══██║██╔══╝  ██╔══██╗██║     ██║     ██╔═██╗ ██╔══██╗╚════██║
+   ██║   ██║  ██║███████╗██████╔╝███████╗╚██████╗██║  ██╗██║  ██║███████║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Arch+Linux+%7C+Hyprland+%7C+Catppuccin;React+%7C+Next.js+%7C+TypeScript;Java+%7C+C%23+%7C+C%2B%2B;Always+learning%2C+always+ricing" alt="Typing SVG" />
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami+%7C+sha256sum;e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855;access+level%3A+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+restricted;connection+encrypted+established" alt="terminal" />
 
-## 🛠️ Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### OS & Setup
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-1E1E2E?style=for-the-badge&logo=wayland&logoColor=CBA6F7)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<br>
 
 ---
 
-## 📊 GitHub Stats
+</div>
+
+<pre>
+┌──────────────────────────────────────────────────────────────────┐
+│  $ cat /etc/passwd | grep theblckrs                             │
+│  theblckrs:x:1000:1000::/dev/null:/bin/zsh                      │
+│                                                                  │
+│  $ nmap -sV theblckrs                                           │
+│  PORT     STATE  SERVICE      VERSION                            │
+│  22/tcp   open   ssh          OpenSSH 9.8 (Arch Linux)           │
+│  80/tcp   open   http         Next.js 15 (React)                 │
+│  443/tcp  open   https        TLS 1.3 / ECDHE                    │
+│  3000/tcp open   ppp          Node.js runtime                    │
+│  5432/tcp open   postgresql   PostgreSQL 16                      │
+│  8080/tcp open   http-proxy   .NET Kestrel                       │
+│  9090/tcp closed unknown       [filtered]                        │
+│                                                                  │
+│  OS detection: Arch Linux x86_64 / Hyprland WM                   │
+│  Uptime: unknown — system never sleeps                           │
+│  Nmap done: 1 IP address (1 host up) scanned in 0.00s            │
+└──────────────────────────────────────────────────────────────────┘
+</pre>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theblckrs&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&icon_color=89B4FA&text_color=CDD6F4&ring_color=F5C2E7" height="170"/>
+## ⚔️ Arsenal
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblckrs&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E&title_color=CBA6F7&text_color=CDD6F4" height="170"/>
+</div>
+
+<pre>
+┌─ OFFENSIVE ──────────────────────────────────────────────────────┐
+│  ► Web Application Penetration Testing                           │
+│  ► Network Reconnaissance & Enumeration                          │
+│  ► Reverse Engineering & Binary Analysis                         │
+│  ► Exploit Development (PoC)                                     │
+│  ► Social Engineering Frameworks                                 │
+├─ DEFENSIVE ──────────────────────────────────────────────────────┤
+│  ► Threat Hunting & Incident Response                            │
+│  ► SIEM / Log Analysis                                           │
+│  ► Malware Analysis (Static & Dynamic)                           │
+│  ► Hardening & Security Auditing                                 │
+│  ► Zero Trust Architecture                                       │
+├─ DEVELOPMENT ────────────────────────────────────────────────────┤
+│  ► Full-Stack Web (React / Next.js / TypeScript)                 │
+│  ► Systems Programming (C++ / Java / C#)                         │
+│  ► Automation & Scripting (Python / Bash)                        │
+│  ► Secure SDLC & DevSecOps                                       │
+└──────────────────────────────────────────────────────────────────┘
+</pre>
+
+<br>
+
+<div align="center">
+
+## 🕸️ Stack Trace
+
+<br>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+
+![Arch Linux](https://img.shields.io/badge/Arch-0D1117?style=for-the-badge&logo=arch-linux&logoColor=1793D1)
+![Kali Linux](https://img.shields.io/badge/Kali-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Burp Suite](https://img.shields.io/badge/Burp-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Ghidra](https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logo=ghidra&logoColor=FF0000)
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📡 Intercepted Signals
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=theblckrs&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF0040&text_color=8B949E&ring_color=00FF41&hide_title=true&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theblckrs&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=8B949E&hide=html,css&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theblckrs&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F38BA8&currStreakLabel=CBA6F7&sideLabels=CDD6F4&dates=89B4FA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theblckrs&theme=transparent&hide_border=true&background=0D1117&ring=00FF41&fire=FF0040&currStreakLabel=00FF41&sideLabels=8B949E&dates=58A6FF&stroke=21262D" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theblckrs&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=4" />
+## 🧩 Activity Matrix
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theblckrs&theme=github-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=FF0040&point=58A6FF&area=true&area_color=00FF4120" />
 
 </div>
+
+<br>
 
 ---
 
-## 🎵 Currently Vibing
+<br>
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1E1E2E&interchange=true&bar_color=CBA6F7&bar_color_cover=false" alt="Spotify" />
+<pre>
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   "The quieter you become,                          │
+│    the more you are able to hear."                  │
+│                          — Kali Linux motto         │
+│                                                     │
+│   PGP: 4A2F 8B1C ████ ████ ████ ████ 9E7D 3F06     │
+│   OTR: 7F3A92B1 ████████ ████████ D4E8F1C0          │
+│   Warrant canary: ✅ valid as of last commit         │
+│                                                     │
+│   $ echo "Y29udGFjdCBtZSBpZiB5b3UgY2Fu" | base64 -d │
+│   contact me if you can                             │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+</pre>
 
-</div>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=theblckrs&color=00FF41&style=flat-square&label=WATCHERS" />
 
-## 📫 Connect with Me
+<br>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theblckrs)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theblckrs)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/theblckrs)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=theblckrs&color=cba6f7&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<pre>
+$ _
+</pre>
 
 </div>
