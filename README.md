@@ -26,16 +26,6 @@
 [*] status: operational
 ```
 
-<div align="center">
-
-![status](https://img.shields.io/badge/STATUS-ONLINE-A6E3A1?style=for-the-badge&logoColor=white)
-![uplink](https://img.shields.io/badge/UPLINK-ENCRYPTED-CBA6F7?style=for-the-badge&logoColor=white)
-![clearance](https://img.shields.io/badge/CLEARANCE-NULL-F38BA8?style=for-the-badge&logoColor=white)
-![trust](https://img.shields.io/badge/TRUST-EARNED-F9E2AF?style=for-the-badge&logoColor=black)
-![mode](https://img.shields.io/badge/MODE-GHOST-89B4FA?style=for-the-badge&logoColor=white)
-
-</div>
-
 ---
 
 ```bash
@@ -62,27 +52,6 @@ drwx------  dotnet     c# / asp
 drwx------  sys        c++ / low-level
 drwx------  dots       mkhmtdots fork
 ```
-
----
-
-<div align="center">
-
-### `[ which tools ]`
-
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-CBA6F7?style=for-the-badge&logo=hyprland&logoColor=black)
-![Kitty](https://img.shields.io/badge/Kitty-F9E2AF?style=for-the-badge&logo=kitty&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-A6E3A1?style=for-the-badge&logo=zsh&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-89B4FA?style=for-the-badge&logo=neovim&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-A6E3A1?style=for-the-badge&logo=node.js&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-89B4FA?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F38BA8?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-FAB387?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-CBA6F7?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F38BA8?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-89DCEB?style=for-the-badge&logo=docker&logoColor=black)
-
-</div>
 
 ---
 
